@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: CV-JianyiYang.pdf
+permalink: "https://github.com/JYang-AI/jyang-ai.github.io/blob/master/CV-JianyiYang.pdf"
 author_profile: true
 redirect_from:
   - /resume
