@@ -1,14 +1,13 @@
 ---
 layout: archive
 title: "CV"
-permalink: "https://github.com/JYang-AI/jyang-ai.github.io/blob/master/CV-JianyiYang.pdf"
+permalink: https://jyang-ai.github.io/CV-JianyiYang.pdf
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
