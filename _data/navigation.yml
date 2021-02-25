@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: https://jyang-ai.github.io/CV-JianyiYang.pdf
+    url: /CV/
     
   - title: "Guide"
     url: /markdown/
