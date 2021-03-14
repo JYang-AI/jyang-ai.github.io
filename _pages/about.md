@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Jianyi Yang's homepage!
+This is Jianyi Yang's homepage! My [CV](https://jyang-ai.github.io/CV-JianyiYang.pdf) is shown here 
