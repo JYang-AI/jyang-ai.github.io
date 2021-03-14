@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jianyi Yang / My Region"
+title                    : "Jianyi Yang / Homepage"
 title_separator          : "-"
 name                     : &name "Jianyi Yang"
 description              : &description ""
