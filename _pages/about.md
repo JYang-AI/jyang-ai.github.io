@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Jianyi Yang's home on the web!
+This is Jianyi Yang's homepage!
