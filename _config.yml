@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jianyi Yang"
   avatar           : "profile.png"
-  bio              : "I am a third-year phd cadidate in UC, Riverside. I am interested in understanding machine learning analytically and motivating new provable learning algorithms"
+  bio              : "PhD cadidate in UC, Riverside."
   location         : "Riverside, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : yangjianyi1992@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jianyi-yang-b7a9181a6/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
