@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd candidate in Electrical and Computer Engineering Department at [UC, Riverisde](https://www.ucr.edu/), advised by [Dr. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). Before coming to UC, Riverside, I got my Master's degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) and Bechelor's degree from [Xidian University](https://en.xidian.edu.cn/), both in Information and Communication Engineering. Here is my [CV](https://jyang-ai.github.io/CV-JianyiYang.pdf). 
+I am a phd candidate in Electrical and Computer Engineering Department at [University of California, Riverisde](https://www.ucr.edu/), advised by [Dr. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). Before coming to UC, Riverside, I got my Master's degree from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn/) and Bechelor's degree from [Xidian University](https://en.xidian.edu.cn/), both in Information and Communication Engineering. Here is my [CV](https://jyang-ai.github.io/CV-JianyiYang.pdf). 
 
 ## Research Interest ##
 I am interested in **machine learning driven by both data and domain knowledge**, especially provably effective algorithms. I focus on the following two concrete areas.
