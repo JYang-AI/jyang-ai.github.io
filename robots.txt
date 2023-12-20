@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jyang-ai.github.io/jianyiyang-ai.github.io/sitemap.xml
+Sitemap: https://jyang-ai.github.io/jianyiyang.github.io/sitemap.xml
