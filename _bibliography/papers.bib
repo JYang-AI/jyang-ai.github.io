@@ -1,84 +1,375 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
-
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
-}
-
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
+@article{PhysRev,
+  abbr={SIGMETRICS},
+  title={Online Allocation with Replenishable Budgets: Worst Case and Beyond},
+  author={Yang, Jianyi and Li, Pengfei and Islam, Mohammad J. and Ren, Shaolei},
+  abstract={This paper studies online resource allocation with replenishable budgets, where budgets can be replenished
+on top of the initial budget and an agent sequentially chooses online allocation decisions without violating the
+available budget constraint at each round. We propose a novel online algorithm, called OACP (Opportunistic
+Allocation with Conservative Pricing), that conservatively adjusts dual variables while opportunistically
+utilizing available resources. OACP achieves a bounded asymptotic competitive ratio in adversarial settings as
+the number of decision rounds T gets large. Importantly, the asymptotic competitive ratio of OACP is optimal
+in the absence of additional assumptions on budget replenishment. To further improve the competitive ratio,
+we make a mild assumption that there is budget replenishment every T* decision rounds and propose
+OACP+ to dynamically adjust the total budget assignment for online allocation. Next, we move beyond the
+worst-case and propose LA-OACP (Learning-Augmented OACP/OACP+), a novel learning-augmented algorithm
+for online allocation with replenishable budgets. We prove that LA-OACP can improve the average utility
+compared to OACP/OACP+ when the ML predictor is properly trained, while still offering worst-case utility
+guarantees when the ML predictions are arbitrarily wrong. Finally, we run simulation studies of sustainable
+AI inference powered by renewables, validating our analysis and demonstrating the empirical benefits of
+LA-OACP.},
+  journal={ACM International Conference on Measurement and Modeling of Computer Systems},
+  year={2024},
+  html={},
+  pdf={},
   dimensions={true},
   selected={true}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{PhysRev,
+  abbr={NeurIPS},
+  title={Anytime-Competitive Reinforcement Learning with Policy Prior},
+  author={Yang, Jianyi and Li, Pengfei and Li, Tongxin and Wierman, Adam and Ren, Shaolei},
+  abstract={This paper studies the problem of Anytime-Competitive Markov Decision Process (A-CMDP). Existing works on Constrained Markov Decision Processes (CMDPs) aim to optimize the expected reward while constraining the expected cost over random dynamics, but the cost in a specific episode can still be unsatisfactorily high. In contrast, the goal of A-CMDP is to optimize the expected reward while guaranteeing a bounded cost in each round of any episode against a policy prior. We propose a new algorithm, called Anytime-Competitive Reinforcement Learning (ACRL), which provably guarantees the anytime cost constraints. The regret analysis shows the policy asymptotically matches the optimal reward achievable under the anytime competitive constraints. Experiments on the application of carbon-intelligent computing verify the reward performance and cost constraint guarantee of ACRL.},
+  journal={Neural Information Processing Systems},
+  year={2023},
+  html={https://arxiv.org/abs/2311.01568},
+  pdf={https://arxiv.org/pdf/2311.01568.pdf},
+  dimensions={true},
+  selected={true}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+
+@article{PhysRev,
+  abbr={NeurIPS},
+  title={Robust Learning for Smoothed Online Convex Optimization with Feedback Delay},
+  author={Li, Pengfei and Yang, Jianyi and Wierman, Adam and Ren, Shaolei},
+  abstract={We study a challenging form of Smoothed Online Convex Optimization, a.k.a. SOCO, 
+including multi-step nonlinear switching costs and feedback delay. We propose a novel machine learning (ML) augmented online algorithm, 
+Robustness-Constrained Learning (RCL), which combines untrusted ML predictions with a trusted expert online algorithm 
+ia constrained projection to robustify the ML prediction. Specifically,we prove that RCL is able to guarantee(1+λ)-competitiveness 
+against any given expert for anyλ>0, while also explicitly training the ML model in a robustification-aware manner to 
+improve the average-case performance. Importantly,RCL is the first ML-augmented algorithm with a provable robustness guarantee 
+in the case of multi-step switching cost and feedback delay.We demonstrate the improvement of RCL in both robustness and average 
+performance using battery management for electrifying transportationas a case study.},
+  journal={Neural Information Processing System},
+  year={2023},
+  html={https://arxiv.org/abs/2310.20098},
+  pdf={https://arxiv.org/pdf/2310.20098.pdf},
+  dimensions={true},
+  selected={true}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@article{PhysRev,
+  abbr={ICML},
+  title={Learning for Edge-Weighted Online Bipartite Matching with Robustness Guarantees},
+  author={Li, Pengfei and Yang, Jianyi and Ren, Shaolei},
+  abstract={Many problems, such as online ad display, can be formulated as online bipartite matching. 
+The crucial challenge lies in the nature of sequentially- revealed online item information, 
+based on which we make irreversible matching decisions at each step. While numerous expert online algorithms 
+have been proposed with bounded worst-case competitive ratios, they may not offer satisfactory performance in average cases. 
+On the other hand, reinforcement learning (RL) has been applied to improve the average performance, 
+but it lacks ro- bustness and can perform arbitrarily poorly. In this paper, we propose a novel RL-based approach 
+to edge-weighted online bipartite matching with robustness guarantees (LOMAR), achieving both good average-case and
+worst-case performance. The key novelty of LOMAR is a new online switch- ing operation which, based on a judicious 
+condition to hedge against future uncertainties, decides whether to follow the expert’s decision or the RL decision 
+for each online item. We prove that for any ρ ∈ [0, 1], LOMAR is ρ-competitive against any given expert online algorithm. 
+To improve the average performance, we train the RL policy by explicitly considering the online switching operation. 
+Finally, we run empirical experiments to demonstrate the advantages of LOMAR com- pared to existing baselines.},
+  journal={International Conference on Machine Learning},
+  year={2023},
+  html={https://arxiv.org/abs/2306.00172},
+  pdf={https://arxiv.org/pdf/2306.00172.pdf},
+  dimensions={true},
+  selected={true}
 }
 
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{PhysRev,
+  abbr={AAAI},
+  title={Learning-Assisted Algorithm Unrolling for Online Optimization with Inventory Constraints},
+  author={Yang, Jianyi and Ren, Shaolei},
+  abstract={Online optimization with multiple budget constraints is challenging since the online decisions 
+over a short time horizon are coupled together by strict inventory constraints. The existing manually-designed algorithms 
+cannot achieve sat- isfactory average performance for this setting because they often need a large number of time steps 
+for convergence and/or may violate the inventory constraints. In this paper, we propose a new machine learning (ML) assisted unrolling approach, 
+called LAAU (Learning-Assisted Algorithm Un- rolling), which unrolls the agent’s online decision pipeline and 
+leverages an ML model for updating the Lagrangian mul- tiplier online. For efficient training via backpropagation, 
+we derive gradients of the decision pipeline over time. We also provide the average cost bounds for two cases 
+when training data is available offline and collected online, respectively. Finally, we present numerical results 
+to highlight that LAAU can outperform the existing baselines.},
+  journal={AAAI Conference on Artificial Intelligence},
+  year={2023},
+  html={https://arxiv.org/abs/2212.01689},
+  pdf={https://arxiv.org/abs/2212.01689.pdf},
+  dimensions={true}
 }
+
+@article{PhysRev,
+  abbr={INFOCOM},
+  title={Robustified Learning for Online Optimization with Memory Costs},
+  author={Li, Pengfei and Yang, Jianyi and Ren, Shaolei},
+  abstract={Online optimization with memory costs has many realworld applications, where sequential actions are made 
+without knowing the future input. Nonetheless, the memory cost couples the actions over time, adding substantial challenges. 
+Conventionally, this problem has been approached by various expert-designed online algorithms with the goal of achieving bounded worst-case competitive ratios,
+but the resulting average performance is often unsatisfactory. On the other hand, emerging machine learning (ML) based optimizers 
+can improve the average performance, but suffer from the lack of worst-case performance robustness. In this paper, 
+we propose a novel expert-robustified learning (ERL) approach, achieving {both} good average performance and robustness. 
+More concretely, for robustness, ERL introduces a novel projection operator that robustifies ML actions by utilizing 
+an expert online algorithm; for average performance, ERL trains the ML optimizer based on a recurrent architecture 
+by explicitly considering downstream expert robustification. We prove that, for any λ≥1, ERL can achieve λ-competitive 
+against the expert algorithm and λ⋅C-competitive against the optimal offline algorithm (where C is the expert's competitive ratio). 
+Additionally, we extend our analysis to a novel setting of multi-step memory costs. Finally, our analysis is 
+supported by empirical experiments for an energy scheduling application.},
+  journal={IEEE International Conference on Computer Communications},
+  year={2023},
+  html={https://arxiv.org/abs/2305.00677},
+  pdf={https://arxiv.org/abs/2305.00677.pdf},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={ICML},
+  title={Informed Learning by Wide Neural Networks: Convergence, Generalization and Sampling Complexity},
+  author={Yang, Jianyi and Ren, Shaolei},
+  abstract={By integrating domain knowledge with labeled samples, informed machine learning has been emerging to improve the learning performance for a wide range of applications. Nonetheless, rigorous understanding of the role of injected domain knowledge has been under-explored. In this paper, we consider an informed deep neural network (DNN) with over-parameterization and domain knowledge integrated into its training objective function, and study how and why domain knowledge benefits the performance. Concretely, we quantitatively demonstrate the two benefits of domain knowledge in informed learning {—} regularizing the label-based supervision and supplementing the labeled samples {—} and reveal the trade-off between label and knowledge imperfectness in the bound of the population risk. Based on the theoretical analysis, we propose a generalized informed training objective to better exploit the benefits of knowledge and balance the label and knowledge imperfectness, which is validated by the population risk bound. Our analysis on sampling complexity sheds lights on how to choose the hyper-parameters for informed learning, and further justifies the advantages of knowledge informed learning.},
+  journal={International Conference on Machine Learning},
+  year={2022},
+  html={https://proceedings.mlr.press/v162/yang22l.html},
+  pdf={https://proceedings.mlr.press/v162/yang22l/yang22l.pdf},
+  dimensions={true},
+  selected={true}
+}
+
+@article{PhysRev,
+  abbr={SIGMETRICS},
+  title={Expert-Calibrated Learning for Online Optimization with Switching Costs},
+  author={Li*, Pengfei and Yang*, Jianyi and Ren, Shaolei},
+  abstract={We study online convex optimization with switching costs, a practically important but also extremely chal- lenging problem due to the lack of complete offline information. By tapping into the power of machine learning (ML) based optimizers, ML-augmented online algorithms (also referred to as expert calibration in this paper) have been emerging as state of the art, with provable worst-case performance guarantees. Nonetheless, by using the standard practice of training an ML model as a standalone optimizer and plugging it into an ML-augmented algorithm, the average cost performance can be highly unsatisfactory. In order to address the “how to learn” challenge, we propose EC-L2O (expert-calibrated learning to optimize), which trains an ML-based optimizer by explicitly taking into account the downstream expert calibrator. To accomplish this, we propose a new differentiable expert calibrator that generalizes regularized online balanced descent and offers a provably better competitive ratio than pure ML predictions when the prediction error is large. For training, our loss function is a weighted sum of two different losses — one minimizing the average ML prediction error for better robustness, and the other one minimizing the post-calibration average cost. We also provide theoretical analysis for EC-L2O, highlighting that expert calibration can be even beneficial for the average cost performance and that the high-percentile tail ratio of the cost achieved by EC-L2O to that of the offline optimal oracle (i.e., tail cost ratio) can be bounded. Finally, we test EC-L2O by running simulations for sustainable datacenter demand response. Our results demonstrate that EC-L2O can empirically achieve a lower average cost as well as a lower competitive ratio than the existing baseline algorithms.
+},
+  journal={ACM International Conference on Measurement and Modeling of Computer Systems},
+  year={2022},
+  html={https://arxiv.org/abs/2204.08572},
+  pdf={https://arxiv.org/pdf/2204.08572.pdf},
+  dimensions={true},
+  selected={true}
+}
+
+@article{PhysRev,
+  abbr={SIGMETRICS},
+  title={One Proxy Device Is Enough for Hardware-Aware Neural Architecture Search},
+  author={Lu, Bingqian and Yang, Jianyi and Jiang, Weiwen and Shi, Yiyu and Ren, Shaolei},
+  abstract={Convolutional neural networks (CNNs) are used in numerous real-world applications such as vision-based autonomous driving and video content analysis. To run CNN inference on various target devices, hardware-aware neural architecture search (NAS) is crucial. A key requirement of efficient hardware-aware NAS is the fast evaluation of inference latencies in order to rank different architectures. While building a latency predictor for each target device has been commonly used in state of the art, this is a very time-consuming process, lacking scalability in the presence of extremely diverse devices. In this work, we address the scalability challenge by exploiting latency monotonicity -- the architecture latency rankings on different devices are often correlated. When strong latency monotonicity exists, we can re-use architectures searched for one proxy device on new target devices, without losing optimality. In the absence of strong latency monotonicity, we propose an efficient proxy adaptation technique to significantly boost the latency monotonicity. Finally, we validate our approach and conduct experiments with devices of different platforms on multiple mainstream search spaces, including MobileNet-V2, MobileNet-V3, NAS-Bench-201, ProxylessNAS and FBNet. Our results highlight that, by using just one proxy device, we can find almost the same Pareto-optimal architectures as the existing per-device NAS, while avoiding the prohibitive cost of building a latency predictor for each device. },
+  journal={ACM International Conference on Measurement and Modeling of Computer Systems},
+  year={2022},
+  html={https://arxiv.org/abs/2111.01203},
+  pdf={https://arxiv.org/pdf/2111.01203.pdf},
+  dimensions={true},
+  selected={true}
+}
+
+@article{PhysRev,
+  abbr={INFOCOM},
+  title={Learning for Robust Combinatorial Optimization: Algorithm and Application},
+  author={Shao, Zhihui and Yang, Jianyi and Shen, Cong and Ren, Shaolei},
+  abstract={Learning to optimize (L2O) has recently emerged as a promising approach to solving optimization problems by exploiting the strong prediction power of neural networks and offering lower runtime complexity than conventional solvers. While L2O has been applied to various problems, a crucial yet challenging class of problems -- robust combinatorial optimization in the form of minimax optimization -- have largely remained under-explored. In addition to the exponentially large decision space, a key challenge for robust combinatorial optimization lies in the inner optimization problem, which is typically non-convex and entangled with outer optimization. In this paper, we study robust combinatorial optimization and propose a novel learning-based optimizer, called LRCO (Learning for Robust Combinatorial Optimization), which quickly outputs a robust solution in the presence of uncertain context. LRCO leverages a pair of learning-based optimizers -- one for the minimizer and the other for the maximizer -- that use their respective objective functions as losses and can be trained without the need of labels for training problem instances. To evaluate the performance of LRCO, we perform simulations for the task offloading problem in vehicular edge computing. Our results highlight that LRCO can greatly reduce the worst-case cost and improve robustness, while having a very low runtime complexity. },
+  journal={ACM International Conference on Measurement and Modeling of Computer Systems},
+  year={2022},
+  html={https://arxiv.org/abs/2112.10377},
+  pdf={https://arxiv.org/abs/2112.10377.pdf},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={IOTJ},
+  title={Improving QoE of Deep Neural Network Inference on Edge Devices: A Bandit Approach},
+  author={Lu, Bingqian and Yang, Jianyi and Xu, Jie and Ren, Shaolei},
+  journal={IEEE Internet of Things Journal},
+  abstract={Edge devices, including, in particular, mobile devices, have been emerging as an 
+increasingly more important platform for deep neural network (DNN) inference. Typically, 
+multiple lightweight DNN models generated using different architectures and/or compression schemes 
+can fit into a device, thus selecting an optimal one is crucial in order to maximize the users’ 
+Quality of Experience (QoE) for edge inference. The existing approaches to device-aware DNN 
+optimization are usually time consuming and not scalable in view of extremely diverse edge devices. 
+More importantly, they focus on optimizing standard performance metrics (e.g., accuracy and latency), 
+which may not translate into improvement of the users’ actual subjective QoE. In this article,
+we propose a novel automated and user-centric DNN selection engine, called Aquaman , 
+which keeps users into a closed loop and leverages their QoE feedback to guide DNN selection decisions. 
+The core of Aquaman is a neural network-based QoE predictor, which is continuously updated online. 
+Additionally, we use neural bandit learning to balance exploitation and exploration, 
+with a provably efficient QoE performance. Finally, we evaluate Aquaman on a 15-user experimental 
+study as well as synthetic simulations, demonstrating the effectiveness of Aquaman .},
+  year={2022},
+  html={https://ieeexplore.ieee.org/abstract/document/9795664?casa_token=otBMbLQqXpUAAAAA:PqGO6w8ybjy6qLhEF1qLbA4DPLwJe4cnNGvBLFnxFL3H8TP9TlGHgpwO0FJyx7zm8nPDs_OWsI0},
+  pdf={https://ieeexplore.ieee.org/abstract/document/9795664?casa_token=otBMbLQqXpUAAAAA:PqGO6w8ybjy6qLhEF1qLbA4DPLwJe4cnNGvBLFnxFL3H8TP9TlGHgpwO0FJyx7zm8nPDs_OWsI0},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={AAAI},
+  title={Robust Bandit Learning with Imperfect Context},
+  author={Yang, Jianyi and Ren, Shaolei},
+  journal={AAAI Conference on Artificial Intelligence},
+  abstract={A standard assumption in contextual multi-arm bandit is that the true context is perfectly known before arm selection.
+Nonetheless, in many practical applications (e.g., cloud resource management), 
+prior to arm selection, the context information can only be acquired by prediction 
+subject to errors or adversarial modification. In this paper, we study a novel contextual 
+bandit setting in which only imperfect context is available for arm selection while the true context 
+is revealed at the end of each round. We propose two robust arm selection algorithms: MaxMinUCB 
+(Maximize Minimum UCB) which maximizes the worst-case reward, and MinWD (Minimize Worst-case Degradation) 
+which minimizes the worst-case regret. Importantly, we analyze the robustness of MaxMinUCB and MinWD by 
+deriving both regret and reward bounds compared to an oracle that knows the true context. 
+Our results show that as time goes on, MaxMinUCB and MinWD both perform as asymptotically well as 
+their optimal counterparts that know the reward function. Finally, we apply MaxMinUCB and MinWD to 
+online edge datacenter selection, and run synthetic simulations to validate our theoretical analysis.},
+  year={2021},
+  html={https://arxiv.org/abs/2102.05018},
+  pdf={https://arxiv.org/abs/2102.05018.pdf},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={INFOCOM},
+  title={Bandit Learning with Predicted Context: Regret Analysis and Selective Context Query},
+  author={Yang, Jianyi and Ren, Shaolei},
+  journal={IEEE International Conference on Computer Communications},
+  abstract={Abstract—Contextual bandit learning selects actions (i.e., arms) 
+based on context information to maximize rewards while balancing exploitation and exploration.
+In many applications (e.g., cloud resource management with dynamic workloads), before arm selection, 
+the agent/learner can either predict context information online based on context history or selectively
+query the context from an outside expert. Motivated by this practical consideration, 
+we study a novel contextual bandit setting where context information is either predicted online or queried from an expert. 
+First, considering predicted context only, we quantify the impact of context prediction on the cumulative regret 
+(compared to an oracle with perfect context information) by deriving an upper bound on regret, 
+which takes the form of a weighted combination of regret incurred by standard bandit learning and the context 
+prediction error. Then, inspired by the regret’s structural decomposition, we propose context query algorithms 
+to selectively obtain outside expert’s input (subject to a total query budget) for more accurate context, 
+decreasing the overall regret. Finally, we apply our algorithms to virtual machine scheduling on cloud platforms. 
+The simulation results validate our regret analysis and shows the effectiveness of our selective context query algorithms.},
+  year={2021},
+  html={https://ieeexplore.ieee.org/document/9488896},
+  pdf={https://jyang-ai.github.io/files/Bandit_Learning_with_Predicted_Context_Regret_Analysis_and_Selective_Context_Query.pdf},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={AI Safety},
+  title={Multi-Feedback Bandit Learning with Probabilistic Contexts},
+  author={Shao, Zhihui and Yang, Jianyi and Ren, Shaolei},
+  journal={International Joint Conference on Artificial Intelligence},
+  abstract={Inference accuracy of deep neural networks (DNNs) is a crucial performance metric, 
+but can vary greatly in practice subject to actual test datasets and is typically unknown 
+due to the lack of ground truth labels. This has raised significant concerns with trustworthiness of DNNs, 
+especially in safety-critical applications. In this paper, we ad- dress trustworthiness of 
+DNNs by using post-hoc processing to monitor the true inference accuracy on a user’s dataset. 
+Concretely, we propose a neu- ral network-based accuracy monitor model, which only takes the deployed DNN’s 
+softmax probability output as its input and directly predicts if the DNN’s prediction result is correct or not, 
+thus lead- ing to an estimate of the true inference accuracy. The accuracy monitor model can be pre-trained 
+on a dataset relevant to the target application of inter- est, and only needs to actively label a small portion 
+(1% in our experiments) of the user’s dataset for model transfer. For estimation robustness, 
+we further employ an ensemble of monitor models based on the Monte-Carlo dropout method. 
+We evaluate our approach on different deployed DNN models for image classification and traffic sign detection 
+over multiple datasets (including adversarial sam- ples). The result shows that our accuracy monitor 
+model provides a close-to-true accuracy estimation and outperforms the existing baseline methods.},
+  year={2020},
+  html={https://arxiv.org/pdf/2007.01472.pdf},
+  pdf={https://arxiv.org/pdf/2007.01472.pdf},
+  dimensions={true},
+}
+
+
+
+@article{PhysRev,
+  abbr={CogMI},
+  title={Automating Deep Neural Network Model Selection for Edge Inference},
+  author={Lu*, Bingqian and Yang*, Jianyi and Lydia Y. Chen and Ren, Shaolei},
+  journal={IEEE First International Conference on Cognitive Machine Intelligence},
+  abstract={The ever increasing size of deep neural network (DNN) models once implied that 
+they were only limited to cloud data centers for runtime inference. Nonetheless, 
+the recent plethora of DNN model compression techniques have successfully overcome this limit, 
+turning into a reality that DNN-based inference can be run on numerous resource-constrained edge devices 
+including mobile phones, drones, robots, medical devices, wearables, Internet of Things devices, 
+among many others. Naturally, edge devices are highly heterogeneous in terms of hardware specification 
+and usage scenarios. On the other hand, compressed DNN models are so diverse that they exhibit different 
+tradeoffs in a multi-dimension space, and not a single model can achieve optimality in terms of all important 
+metrics such as accuracy, latency and energy consumption. Consequently, how to automatically select a compressed 
+DNN model for an edge device to run inference with optimal quality of experience (QoE) arises as a new challenge. 
+The state-of-the-art approaches either choose a common model for all/most devices, which is optimal for 
+a small fraction of edge devices at best, or apply device-specific DNN model compression, which is not scalable. 
+In this paper, by leveraging the predictive power of machine learning and keeping end users in the loop, 
+we envision an automated device-level DNN model selection engine for QoE-optimal edge inference. 
+To concretize our vision, we formulate the DNN model selection problem into a contextual multi-armed bandit framework, 
+where features of edge devices and DNN models are contexts and pre-trained DNN models are arms selected online 
+based on the history of actions and users' QoE feedback. We develop an efficient online learning algorithm to 
+balance exploration and exploitation. Our preliminary simulation results validate our algorithm and highlight 
+the potential of machine learning for automating DNN model selection to achieve QoE-optimal edge inference.},
+  year={2019},
+  html={https://ieeexplore.ieee.org/abstract/document/8998995},
+  pdf={https://ieeexplore.ieee.org/abstract/document/8998995},
+  dimensions={true},
+}
+
+
+@article{PhysRev,
+  abbr={PIMRC},
+  title={User Clustering and Scheduling in UAV Systems Exploiting Channel Correlation},
+  author={Zhenqiao Cheng and Jianyi Yang and Zaixue Wei and Hongwen Yang},
+  journal={IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications},
+  abstract={Unmanned aerial vehicle (UAV) communication system equipped with multiple input and multiple output (MIMO) 
+antennas has been recognized as an efficient technique for obtaining high spectral efficiency. 
+To improve the system capacity in UAV communication scenario, this paper investigates the user clustering 
+and downlink user scheduling strategy. We first develop a channel correlation based K-means algorithm for user clustering. 
+Furthermore, to diminish intergroup interference, a greedy user scheduling algorithm driven by the K-means clustering strategy, 
+is devised to appropriately select the users with low-correlated channels to schedule at the same time slot. 
+Simulation results are provided to demonstrate the superior performance of the proposed scheduling algorithm 
+over conventional method. It is observed that the presented K-means aided algorithm can achieve near maximum average sum rate with much lower computational complexity.},
+  year={2019},
+  html={https://ieeexplore.ieee.org/abstract/document/8904135},
+  pdf={https://ieeexplore.ieee.org/abstract/document/8904135},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={WCNC},
+  title={Correlation Based Adaptive Compressed Sensing for Millimeter Wave Channel Estimation},
+  author={Jianyi Yang and Zaixue Wei and Xin Zhang and Nanxi Li and Lin Sang},
+  journal={IEEE Wireless Communications and Networking Conference},
+  abstract={In millimeter wave (mmWave) systems, the low-overhead and high-accuracy estimation of channel state information (CSI), 
+especially the angle of departure (AoD) and the angle of arrival (AoA), is essential for hybrid beamforming. 
+The existing adaptive compressed sensing (ACS) based channel estimation algorithm decides the angles 
+by comparing the received powers of different beams. The estimated angular resolution of this power based method is 
+limited by the resolution of beams. In this paper, a correlation based adaptive compressed sensing 
+(CB-ACS) method is proposed. It decides the angles by comparing the correlations between the received vector 
+and the quantized sensing vectors. For the proposed method, two criteria for the beam pattern design are proposed 
+and the cosine beam pattern is proved to be suitable. Then the corresponding hierarchical codebook is designed 
+considering the hardware constraints. Simulation results show that with the proposed scheme, 
+more precise estimation can be realized without increasing the training overhead. 
+Thus, the achievable spectral efficiency of the hybrid precoding system increases.},
+  year={2017},
+  html={https://ieeexplore.ieee.org/document/7925685},
+  pdf={https://ieeexplore.ieee.org/document/7925685},
+  dimensions={true},
+}
+
+@article{PhysRev,
+  abbr={ICCC},
+  title={Enhanced multi-resolution hierarchical codebook design for adaptive compressed sensing based millimeter wave channel estimation},
+  author={Jianyi Yang and Zaixue Wei and Xin Zhang and Nanxi Li and Lin Sang},
+  journal={IEEE/CIC International Conference on Communications in China},
+  abstract={Perfect channel state information (CSI) is essential for precoding and combining in millimeter wave (mmWave) systems.
+The CSI estimation algorithm based on adaptive compressed sensing (CS) is an efficient method. 
+However, the imperfect multi-resolution hierarchical codebook design possibly leads to 
+wrong detections of angle of arrival (AoA) and angle of departure (AoD), which has a negative effect on the spectral efficiency.
+In this paper, an enhanced multi-resolution hierarchical codebook design is proposed to realize precise AoD/AoA estimation. 
+First, the necessary number of sampling angles for generating the codebook is given. 
+Then, the algorithm of iterative adjustment (IA) is developed to improve the codebook design. 
+Simulation results show that using the proposed codebook design, the beams can precisely divide the AoA/AoD intervals 
+as the requirements of the adaptive CS based algorithm. 
+Thus, the average angle estimation error is reduced effectively.},
+  year={2016},
+  html={https://ieeexplore.ieee.org/document/7636870},
+  pdf={https://ieeexplore.ieee.org/document/7636870},
+  dimensions={true},
+}
+
