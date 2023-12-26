@@ -1,97 +1,108 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Electrical Engineering
+      institution: University of California, Riverside
+      year: 2018 - 2023
+    - title: M.S. in Information and Communication Engineering
+      institution: Beijing University of Posts and Telecommunications
+      year: 2015 - 2018
+    - title: B.E. in Information Engineering
+      institution: Xidian University
+      year: 2011 - 2015
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Visiting Researcher 
+      institution: California Institute of Technology, Pasadena, CA
+      year: 2023 - now
+      
+    - title: Postdoctoral Researcher
+      institution: University of California, Riverside, Riverside, CA
+      year: 2023 - now
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Intern
+      institution: Tencent AI Lab, Seattle, WA
+      year: 2022
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching 
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant, Data Center Architecture 
+      institution: University of California, Riverside, Riverside, CA
+      year: 2023
+      
+    - title: Teaching Assistant, Logic Design
+      institution: University of California, Riverside, Riverside, CA
+      year: 2019
+
+    - title: Teaching Assistant, Principles of Communications
+      institution: Beijing University of Posts and Telecommunications, Beijing, China
+      year: 2016
+      
+- title: Service 
+  type: nested_list
+  contents:
+    - title: Reviewer
+      items: 
+        - 2023, ICML, NeurIPS, KDD, AAAI, AISTATS, ICLR
+        - 2022, NeurIPS, ICML, AISTATS, AAAI
+        - 2021, AISTATS, IEEE Systems Journal
+    - title: Volunteer
+      items:
+        - ICML 2023 in Honolulu, HI
+        - ICML 2022 in Baltimore, MD
+
+- title: Talks 
+  type: time_table
+  contents:
+    - year: 10/2023
+      items: 
+        -  Anytime-Constrained Sequential Decision-making with Provable Trustworthiness Guarantee
+        -  Session of Learning-Augmented Decision-Making In Cyber-Physical System, <b>Informs Annual Meeting</b>, Phoneix, AZ
+    - year: 06/2023
+      items: 
+        -  Learning-Augmented Decentralized Online Convex Optimization in Networks
+        -  SIGMETRIS workshop on Learning-augmented Algorithms, Theory and Applications (<b>SIGMETRICS-LATA</b>), Orlando, FL
+    - year: 03/2023
+      items: 
+        -  Intelligent Online Decision-making with Provable Trustworthiness Guarantee
+        -  Information Theory and Applications (<b>ITA</b>) Workshop, San Diego, CA
+   
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        -  Dissertation Year Program Award (for selected outstanding PhD students at UCR)
+    - year: 2023
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Travel Grant of NeurIPS 2023
+    - year: 2023
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Travel Grant of SIGMETRICS 2023
+    - year: 2023
+      items: 
+        - Travel Grant of ICML 2023
+    - year: 2022
+      items: 
+        - Travel Grant of ICML 2022
+    - year: 2018
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - UCR Dean’s Distinguished Fellowship
+    - year: 2017
+      items: 
+        - National Scholarship for Graduates (top 1%)
+    - year: 2015
+      items:
+        - Goodix Industry Scholarship (top 1%)
+    - year: 2013
+      items:
+        - National Scholarship (top 2%)
+    - year: 2012
+      items:
+        - National Scholarship (top 2%)
+      
+  
