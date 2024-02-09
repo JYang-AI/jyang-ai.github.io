@@ -20,4 +20,3 @@ Prior of that, I received PhD in Electrical and Computer Engineering Department 
 
 My research lies in machine learning algorithms and their applications in sustainable AI systems.  On the one hand, my research focuses on principled **learning-augmented algorithms**, exploiting domain knowledge (e.g. existing policy/algorithms, system models, optimization theory) to provide performance guarantees for real AI deployments. On the other hand, my research designs learning-based methods to address the online resource allocation and decision-making problems in achieving **sustainable AI**.
 
-**I am on the 2023-2024 job market for faculty positions.**
