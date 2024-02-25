@@ -1,1 +1,1 @@
-add
+I attended **ITA Workshop 2024** at San Diego and gave a talk named [Online Budgeted Allocation: Worst Case Guarantee and Learning Augmentation](https://ita.ucsd.edu/workshop/schedule) ((paper accepted by SIGMETRICS’24)).
