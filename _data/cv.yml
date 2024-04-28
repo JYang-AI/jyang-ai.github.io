@@ -16,15 +16,15 @@
   contents:
     - title: Visiting Researcher 
       institution: California Institute of Technology, Pasadena, CA
-      year: 2023 - now
+      year: 09/2023 - 05/2024
       
     - title: Postdoctoral Researcher
       institution: University of California, Riverside, Riverside, CA
-      year: 2023 - now
+      year: 08/2023 - 08/2024
 
     - title: Research Intern
       institution: Tencent AI Lab, Seattle, WA
-      year: 2022
+      year: 03/2022-06/2022
 
 - title: Teaching 
   type: time_table
@@ -58,15 +58,15 @@
 - title: Talks 
   type: time_table
   contents:
+    - year: 02/2024
+      items:
+       -  Online Budgeted Allocation: Worst Case Guarantee and Learning Augmentation 
+       -  Information Theory and Applications (<b>ITA</b>) Workshop, San Diego, CA
     - year: 10/2023
       items: 
         -  Anytime-Constrained Sequential Decision-making with Provable Trustworthiness Guarantee
         -  Session of Learning-Augmented Decision-Making In Cyber-Physical System, <b>Informs Annual Meeting</b>, Phoneix, AZ
-    - year: 06/2023
-      items: 
-        -  Learning-Augmented Decentralized Online Convex Optimization in Networks
-        -  SIGMETRIS workshop on Learning-augmented Algorithms, Theory and Applications (<b>SIGMETRICS-LATA</b>), Orlando, FL
-    - year: 03/2023
+    - year: 02/2023
       items: 
         -  Intelligent Online Decision-making with Provable Trustworthiness Guarantee
         -  Information Theory and Applications (<b>ITA</b>) Workshop, San Diego, CA
