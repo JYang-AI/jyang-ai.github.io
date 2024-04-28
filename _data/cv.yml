@@ -76,33 +76,21 @@
   contents:
     - year: 2022
       items: 
-        -  Dissertation Year Program Award (for selected outstanding PhD students at UCR)
-    - year: 2023
-      items: 
-        - Travel Grant of NeurIPS 2023
-    - year: 2023
-      items: 
-        - Travel Grant of SIGMETRICS 2023
-    - year: 2023
-      items: 
-        - Travel Grant of ICML 2023
-    - year: 2022
-      items: 
-        - Travel Grant of ICML 2022
+        -  Dissertation Year Program Award
     - year: 2018
       items:
         - UCR Dean’s Distinguished Fellowship
     - year: 2017
       items: 
-        - National Scholarship for Graduates (top 1%)
+        - National Scholarship for Graduates 
     - year: 2015
       items:
-        - Goodix Industry Scholarship (top 1%)
+        - Goodix Industry Scholarship 
     - year: 2013
       items:
-        - National Scholarship (top 2%)
+        - National Scholarship 
     - year: 2012
       items:
-        - National Scholarship (top 2%)
+        - National Scholarship 
       
   
