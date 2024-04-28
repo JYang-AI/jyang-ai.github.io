@@ -44,11 +44,12 @@
 - title: Service 
   type: nested_list
   contents:
-    - title: Reviewer
+    - title: Conference Reviewer
       items: 
-        - 2023, ICML, NeurIPS, KDD, AAAI, AISTATS, ICLR
-        - 2022, NeurIPS, ICML, AISTATS, AAAI
-        - 2021, AISTATS, IEEE Systems Journal
+        - ICML, NeurIPS, ICLR, AAAI, AISTATS, KDD
+    - title: Jornal Reviewer
+      items: 
+        - IEEE Transactions on Communications, IEEE Systems Journal, IEEE Transactions on Green Communications and Networking
     - title: Volunteer
       items:
         - ICML 2023 in Honolulu, HI
