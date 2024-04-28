@@ -8,7 +8,7 @@ nav_order: 2
 horizontal: false
 ---
 
-My research focuses on both fundamental algorithms (learning-augmented algorithms, online resource allocation algorithms) and their applications in sustainable and efficient AI systems. Recent projects are summarized as below.
+Some of my recent projects are summarized as below.
 
 ## Thrustworthy Learning Algorithms ##
 Learning-augmented algorithms utilize ML advice or
