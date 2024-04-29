@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Learning-Augmented Online Decision-Making
 description: Learning-Augmented Online Decision-Making
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 Learning-augmented algorithms utilize ML advice or
