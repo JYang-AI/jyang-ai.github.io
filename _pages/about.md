@@ -23,7 +23,7 @@ My research goal is to advance **responsible and efficient AI and computing**. C
 + **Machine Learning and Artificial Intelligence** (trustworthy ML, learning-augmented algorithms, efficient large AI models, etc)
 + **Decision Intelligence and Optimization** (reinforcement learning, online optimization/control, online allocation algorithms,  etc)
 + **Cyber Physical Systems and Critical Infrastructures** (resource managment in data centers, energy systems and smart city applications, etc)
-+ **Cloud/Edge Computing and Networks** (energy harvesting systems, distributed computing)
++ **Cloud/Edge Computing and Networks** (energy harvesting systems, distributed computing, edge AI, etc.)
 
 
 **I will join [the Department of Computer Science](https://www.uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu) as a tenure-track Assistant Professor in 08/2024.** \
