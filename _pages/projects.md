@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /projects/
 description: Some of my recent projects are summarized as below.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [ML, AI systems]
 horizontal: false
