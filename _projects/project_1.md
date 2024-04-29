@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning-Augmented Online Decision-Making
+title: Learning-Augmented Algorithms
 description: 
 img: assets/img/learning_augmented_illustration.jpg
 importance: 1
