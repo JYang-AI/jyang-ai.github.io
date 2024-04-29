@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Learning-Augmented Online Decision-Making
 description: 
 img: assets/img/learning_augmented_illustration.jpg
 importance: 1
