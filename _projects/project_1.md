@@ -8,6 +8,12 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Learning-augmented algorithms utilize ML advice or
+data-driven methods in algorithm design to improve the empirical performance with theoretical guarantee. In many mission-critical systems such as data centers, energy systems, edge/cloud computing,
+and transportation systems, classic expert
+algorithms or policies have worst-case performance
+guarantee or have been programmed in the real world for a
+long time, so they can be trusted in terms of some critical
+performance metrics. However, they may not achieve a satisfactory empirical performance on average. 
+Therefore, we design learning-augmented algorithms for various problems to improve the average reward while guaranteeing the critical metrics.
+
