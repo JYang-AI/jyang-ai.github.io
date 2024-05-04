@@ -27,7 +27,7 @@ My research goal is to advance **responsible and efficient AI and computing**. C
 
 
 **I will join the [Department of Computer Science](https://www.uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu) as a tenure-track Assistant Professor in Fall 2024.** \
-**[PhD Openings](https://drive.google.com/file/d/146f7oQRU4xV4rH8TkLnmQu6j-sW-sHeq/view?usp=share_link) I am seeking PhD students starting in Spring 2025 or Fall 2025. Please contact me if you have an interest.**
+**I am seeking PhD students starting in Spring 2025 or Fall 2025. More Details can be found in [Openings](https://jyang-ai.github.io/papers/files/Openings.pdf). Please contact me if you have an interest.**
 
 
 
