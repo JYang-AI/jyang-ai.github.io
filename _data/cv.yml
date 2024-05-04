@@ -46,10 +46,17 @@
   contents:
     - title: Conference Reviewer
       items: 
-        - ICML, NeurIPS, ICLR, AAAI, AISTATS, KDD
+        - International Conference on Machine Learning (ICML) 2024/2023/2022
+        - Conference on Neural Information Processing Systems (NeurIPS) 2023/2022
+        - International Conference on Learning Representations (ICLR) 2023
+        - AAAI Conference on Artificial Intelligence (AAAI) 2023/2022 
+        - Conference on Artificial Intelligence and Statistics (AISTATS) 2023/2022/2021
+        - Conference on Knowledge Discovery and Data Mining (KDD) 2023
     - title: Jornal Reviewer
       items: 
-        - IEEE Transactions on Communications, IEEE Systems Journal, IEEE Transactions on Green Communications and Networking
+        - IEEE Transactions on Communications 2023
+        - IEEE Transactions on Green Communications and Networking 2023
+        - IEEE Systems Journal 2021
     - title: Volunteer
       items:
         - ICML 2023 in Honolulu, HI
