@@ -22,7 +22,7 @@ Prior of that, I received PhD in Electrical and Computer Engineering Department 
 My research goal is to advance **responsible and efficient AI and computing**. Currently, I am focusing on addressing the social concerns of AI, particularly in terms of sustainability, privacy, fairness, and safety issues. In general, my research interests lie in the following ares.
 + **Machine Learning and Artificial Intelligence** (trustworthy ML, learning-augmented algorithms, safe and efficient LLMs, etc)
 + **Decision Intelligence and Optimization** (reinforcement learning, online optimization/control, online allocation, online matching,  etc)
-+ **Cyber Physical Systems and Critical Infrastructures** (resource management in data centers, energy systems, and smart city)
++ **Cyber Physical Systems and Critical Infrastructures** (resource management in data centers, energy systems, and smart city applications)
 + **Cloud/Edge Computing and Networks** (energy harvesting systems, edge AI, distributed computing, etc.)
 
 
