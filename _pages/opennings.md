@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: /opennings/
 title: Openings
 description: 
 nav: false
