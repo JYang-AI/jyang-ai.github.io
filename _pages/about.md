@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Contact. jyang239 at ucr dot edu; jyang23 at caltech dot edu
+  more_info: Contact. jyang239 at ucr dot edu
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
