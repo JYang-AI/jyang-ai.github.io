@@ -27,7 +27,7 @@ My research goal is to advance **responsible and efficient AI and computing**. C
 
 
 **I will join the [Department of Computer Science](https://www.uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu) as a tenure-track Assistant Professor in Fall 2024.** \
-**[PhD Openings]() I am seeking PhD students starting in Spring 2025 or Fall 2025. Please contact me if you have an interest.**
+**[PhD Openings](_data/Openings.pdf) I am seeking PhD students starting in Spring 2025 or Fall 2025. Please contact me if you have an interest.**
 
 
 
