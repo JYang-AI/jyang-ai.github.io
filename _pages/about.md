@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Contact. jyang71@Central.UH.EDU or jianyiyang267@gmail.com
+  more_info: Contact. jyang71@Central.UH.EDU or jianyiyang.ai@gmail.com
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
