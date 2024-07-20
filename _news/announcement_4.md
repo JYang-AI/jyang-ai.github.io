@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-10-17 15:59:00-0400
+date: 2024-05-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I attended **Informs Annual Meeting** at Phoenix, AZ and gave an invited talk on Anytime-Constrained Sequential Decision-making with Provable Guarantee (paper accepted by [NeurIPS'23](https://arxiv.org/abs/2311.01568)) at the session of Learning-Augmented Decision-Making In Cyber-Physical System.
+
+Our paper [Building Socially-Equitable Public Models](https://arxiv.org/abs/2406.02790) was accepted by ICML 2024!
