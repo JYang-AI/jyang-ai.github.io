@@ -18,15 +18,19 @@
       institution: California Institute of Technology, Pasadena, CA
       year: 09/2023 - 05/2024
       items:
-        - Hosted by Adam Wierman
+        - Hosted by Dr. Adam Wierman
       
     - title: Visiting Postdoctoral Researcher
       institution: University of California, Riverside, Riverside, CA
       year: 08/2023 - 08/2024
+      items:
+        - Hosted by Dr. Shaolei Ren
 
     - title: Research Intern
       institution: Tencent AI Lab, Seattle, WA
       year: 03/2022-06/2022
+      items:
+        - Hosted by Dr. Jianshu Chen
 
 - title: Teaching 
   type: time_table
