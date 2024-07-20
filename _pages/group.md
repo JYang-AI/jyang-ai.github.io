@@ -3,7 +3,7 @@ layout: page
 permalink: /group/
 title: Group
 description: 
-nav: false
+nav: true
 nav_order: 3
 ---
 
