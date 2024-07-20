@@ -7,5 +7,5 @@ nav: false
 nav_order: 5
 ---
 
-##2024 Fall##
+**2024 Fall**
 COSC 6063 Artificial Intelligence
