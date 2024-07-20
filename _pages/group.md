@@ -11,8 +11,8 @@ nav_order: 3
 
 I am seeking PhD students and research assistants in Computer Science starting in Spring 2025 or Fall 2025. 
 My research topics span ML/AI algorithms and their domain applications. Students who are interested in the following areas are welcome to apply.
-+ ML/AI methods (trustworthy ML, reinforcement learning, LLMs, efficient AI models)
-+ AI applications (AI for computing systems, AI for science)
++ ML/AI methods (trustworthy ML, reinforcement learning, LLMs, AI systems)
++ AI applications (AI for systems, AI for science)
 
 
 **Expectations**
