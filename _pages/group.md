@@ -9,7 +9,8 @@ nav_order: 3
 
 ## Opengings of PhD students and Research Assistants in University of Houston
 
-[Dr. Jianyi Yang](https://jyang-ai.github.io) is seeking PhD students and research assistants in Computer Science starting in Spring 2025 or Fall 2025. 
+[Dr. Jianyi Yang](https://jyang-ai.github.io) is seeking PhD students and research assistants in Computer Science at UH starting in Spring 2025 or Fall 2025.
+
 My research topics span ML/AI algorithms and their domain applications. Students who are interested in the following areas are welcome to apply.
 + ML/AI methods (trustworthy ML, reinforcement learning, LLMs, AI systems)
 + AI applications (AI for computing systems, AI for science)
