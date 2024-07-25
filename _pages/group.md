@@ -21,7 +21,8 @@ Established in 1927, the University of Houston (UH) is a Carnegie R1 institution
 **How to apply**\
 If you have a passion for high-quality research works and are interested in working with me, please send me an email (jyang71@Central.UH.EDU or jianyiyang.ai@gmail.com) with the following materials
 + Your transcripts
-+ Your CV that includes your research interests and experiences. 
++ Your CV that includes your research interests and experiences.
+  
 Please start you email title with "Application for UH AI by {{your name}}".
 For Fall enrollment, contact me by May. For Spring enrollment, contact me by Oct.
 
