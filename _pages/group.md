@@ -9,7 +9,7 @@ nav_order: 3
 
 ## Openings of PhD students and Research Assistants at UH
 
-I am actively seeking PhD students and research assistants in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the University of Houston (UH) starting in Spring 2025 or Fall 2025.
+I am actively seeking PhD students and research assistants in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the University of Houston (UH) starting Spring 2025 or Fall 2025.
 
 My research focuses on ML/AI algorithms and their domain applications. Topics include.
 + ML/AI methods (trustworthy ML, reinforcement learning, LLMs, AI systems)
