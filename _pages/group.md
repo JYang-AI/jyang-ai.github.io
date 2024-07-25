@@ -16,7 +16,7 @@ My research focuses on ML/AI algorithms and their domain applications. Topics in
 + AI applications (AI for computing systems, AI for science)
 
 **About me**\
-[Dr. Jianyi Yang](https://jyang-ai.github.io) is an Assistant Professor in the Department of Computer Science at UH with a joint appointment in the Department of Electrical and Computer Engineering, starting Fall 2024. Prior to that, He was a visitor at Caltech and a postdoctoral research assistant at UC Riverside. He received his PhD degree from UC Riverside in 2023. His research has been published in top conferences (NeurIPS, ICML, SIGMETRICS, AAAI, INFOCOM, IJCAI, etc.).
+[Dr. Jianyi Yang](https://jyang-ai.github.io) is an Assistant Professor in the Department of Computer Science at UH with a joint appointment in the Department of Electrical and Computer Engineering, starting Fall 2024. Prior to that, He was a visitor at Caltech and a postdoctoral research assistant at UC Riverside. He received his PhD degree from UC Riverside in 2023. His research has been published in top venues (NeurIPS, ICML, SIGMETRICS, AAAI, INFOCOM, IJCAI, etc.).
 
 **About University of Houston**\
 Established in 1927, the University of Houston (UH) is a Carnegie R1 institution with very high research activity. Ranked among the top doctoral research universities in the US, UH offers a vibrant academic environment and cutting-edge research opportunities. UH is ranked 69th in Engineering according to US News. Additionally, according to ARWU, UH is ranked 63-95 in the US and 201-300 worldwide. 
