@@ -16,7 +16,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor in the Department of Computer Science at the [University of Houston](https://www.uh.edu) with a joint appointment in the Department of Electrical and Computer Engineering.
-I received my PhD degree in 2023 at the University of California, Riverside, advised by [Prof. Shaolei Ren](https://shaoleiren.github.io). 
+Prior to that, I was a visitor at Caltech and a postdoctoral research assistant at UC Riverside, working with [Prof. Adam Wierman](https://adamwierman.com) and [Prof. Shaolei Ren](https://shaoleiren.github.io)
+I received my PhD degree in 2023 at the University of California, Riverside, advised by Prof. Shaolei Ren. 
 My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy and efficient AI**, building safe, responsible, and efficient AI systems. My research methodologies include reinforcement learning, online learning/optimization, knowledge informed learning, learning-augmented algorithms, etc.
 
 
