@@ -7,19 +7,19 @@ nav: false
 nav_order: 3
 ---
 
-## Opengings of PhD students and Research Assistants in UH
+## Opengings of PhD students and Research Assistants in University of Houston
 
-I am seeking PhD students and research assistants in Computer Science starting in Spring 2025 or Fall 2025. 
+[Dr. Jianyi Yang](https://jyang-ai.github.io) seeking PhD students and research assistants in Computer Science starting in Spring 2025 or Fall 2025. 
 My research topics span ML/AI algorithms and their domain applications. Students who are interested in the following areas are welcome to apply.
 + ML/AI methods (trustworthy ML, reinforcement learning, LLMs, AI systems)
-+ AI applications (AI for systems, AI for science)
++ AI applications (AI for computing systems, AI for science)
 
+**About University of Houston**
+Established in 1927, the University of Houston (UH) is a Carnegie R1 institution with very high research activity. Ranked among the top doctoral research universities in the US, UH offers a vibrant academic environment and cutting-edge research opportunities. UH is ranked 69th in Engineering according to US News. Additionally, according to ARWU, UH is ranked 63-95 in the US and 201-300 worldwide. 
 
-**Expectations**
-+ A strong motivation and interest in AI research and have the passion for high-quality research works. 
-+ Solid foundation in mathematics (optimization, statistics, ML basics) and proficiency in implementing research ideas.
-+ It would be better if you have Related research project experiences.
+**How to apply**
+If you have a passion for high-quality research works and are interested in working with me, please send me an email with your transcripts and your CV that includes your research interests and experiences. Please start you email title with "Application for UH AI by {{your name}}".
 
-
+For Fall enrollment, contact me by May. For Spring enrollment, contact me by Oct.
 
 
