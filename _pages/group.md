@@ -26,6 +26,6 @@ If you have a passion for high-quality research works and are interested in work
 + Official transcripts
 + CV that includes your research interests and experiences.
   
-Please start you email title with "Application for AI@UH by {{your name}}".
+Please start you email title with "Application for AI@UH".
 
 
