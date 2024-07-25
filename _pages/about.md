@@ -20,7 +20,7 @@ I received my PhD degree in 2023 at the University of California, Riverside, adv
 My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy and efficient AI**, building safe, responsible, and efficient AI systems. My research methodologies include reinforcement learning, online learning/optimization, knowledge informed learning, learning-augmented algorithms, etc.
 
 
-**[<span style="color: red;">PhD Openings</span>](https://jyang-ai.github.io/papers/files/Openings.pdf) I am seeking self-motivated PhD students and research assistants starting in Spring 2025 or Fall 2025. If you have an interest, please contact me and send me your CV and transcripts.**
+**I am seeking self-motivated PhD students and research assistants starting Spring 2025 or Fall 2025. If you have an interest, please contact me and send me your CV and transcripts. Details in the link [<span style="color: red;">Openings</span>](https://jyang-ai.github.io/group/)**
 
 
 
