@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Join/
+permalink: /join/
 title: 
 description: 
 nav: true
