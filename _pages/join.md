@@ -4,7 +4,7 @@ permalink: /join/
 title: 
 description: 
 nav: true
-nav_order: 8
+nav_order: 7
 ---
 
 ## Openings of PhD students and Research Assistants at UH
