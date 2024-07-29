@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /group/
+permalink: /Join/
 title: 
 description: 
 nav: false
