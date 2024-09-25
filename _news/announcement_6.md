@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Online Budgeted Matching with General Bids]() has been accepted by Neurips 2024! It provides a provable algorithm to solve online budgeted matching problem with a more general setting. Camera-ready version will come out soon.
+Our paper [Online Budgeted Matching with General Bids]() has been accepted by Neurips 2024! It provides a provable algorithm to solve online budgeted matching problem with a more general setting. Manuscript will come out soon.
