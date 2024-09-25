@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Learning-Augmented Decentralized Online Convex Optimization in Networks](https://arxiv.org/abs/2306.10158) has been accepted by *Sigmetrics'25*! It proposes a novel algorithm to provably robustify machine learning predictions for decentralized optimization in networks. Our first-author [Pengfei Li](https://www.cs.ucr.edu/~pli081/) is on the job market this year. Pengfei is an excellent and reliable collaborator and we have worked together on a lot of works. Please reach out to him if you have position information!
+Our paper [Learning-Augmented Decentralized Online Convex Optimization in Networks](https://arxiv.org/abs/2306.10158) has been accepted by **Sigmetrics'25**! It proposes a novel algorithm to provably robustify machine learning predictions for decentralized optimization in networks. Our first-author [Pengfei Li](https://www.cs.ucr.edu/~pli081/) is on the job market this year. Pengfei is an excellent and reliable collaborator and we have worked together on a lot of works. Please reach out to him if you have position information!
 
