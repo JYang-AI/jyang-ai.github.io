@@ -7,4 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-I will teach COSC 6063 Artificial Intelligence in Fall 2024.
+Fall 2024， COSC 6063 Artificial Intelligence. 
+
+Spring 2025, COSC4368 Fundamentals of Artificial Intelligence. 
