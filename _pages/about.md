@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu) with a joint appointment in the [Department of Electrical and Computer Engineering](https://www.ece.uh.edu).
+I am an Assistant Professor in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu).
 Prior to that, I was a visitor at Caltech and a postdoctoral research assistant at UC Riverside, working with [Prof. Adam Wierman](https://adamwierman.com) and [Prof. Shaolei Ren](https://shaoleiren.github.io).
 I received my PhD degree in 2023 at UC Riverside, advised by Prof. Shaolei Ren. 
 
