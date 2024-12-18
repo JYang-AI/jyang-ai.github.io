@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-Fall 2024， COSC 6063 Artificial Intelligence. 
+## 2025
+**Spring**, COSC4368 Fundamentals of Artificial Intelligence. 
 
-Spring 2025, COSC4368 Fundamentals of Artificial Intelligence. 
+## 2024
+**Fall** COSC 6063 Artificial Intelligence.  
+
+
