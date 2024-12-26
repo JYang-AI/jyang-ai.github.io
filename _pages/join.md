@@ -17,13 +17,12 @@ If you are interested in working with me, please send me an email (jianyiyang.ai
 ## PhD students
 ---
 
-## Master students
+## Master and visiting students
 ---
-
-## Visitors
----
+Sowbhagya Koppineedi, Fall 2024 -- present, from University of Houston
 
 ## Undergraduate students
 ---
+
 
 
