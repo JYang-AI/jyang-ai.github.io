@@ -4,7 +4,7 @@ permalink: /join/
 title: Group
 description: 
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
 **Openings**
