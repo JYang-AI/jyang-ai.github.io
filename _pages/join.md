@@ -7,20 +7,17 @@ nav: true
 nav_order: 7
 ---
 
-## Openings of PhD students and Research Assistants at UH
+**Openings**
 
 I am actively seeking PhD students and research assistants in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the University of Houston (UH) starting Fall 2025 or Summer 2025.
-
-My research focuses on ML/AI algorithms and their domain applications. Topics include.
-+ ML/AI methods (trustworthy ML, generative AI, optimization and decision making)
-+ AI applications (AI for science, AI for responsible computing)
+My research focuses on ML/AI algorithms and their domain applications. 
+If you are interested in working with me, please send me an email (jianyiyang.ai@gmail.com or jyang71@central.uh.edu) with your CV and official transcripts. Please start you email title with "Application for AI@UH".
 
 
-**How to apply**\
-If you have a passion for high-quality research works and are interested in working with me, please send me an email (jyang71@Central.UH.EDU or jianyiyang.ai@gmail.com) with the following materials
-+ Official transcripts
-+ CV that includes your research interests and experiences.
-  
-Please start you email title with "Application for AI@UH".
+## PhD students
+
+## Master students
+
+## Undergraduate students
 
 
