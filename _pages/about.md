@@ -19,7 +19,7 @@ I am an Assistant Professor in the [Department of Computer Science](https://uh.e
 Prior to that, I was a visitor at Caltech and a postdoctoral research assistant at UC Riverside, working with [Prof. Adam Wierman](https://adamwierman.com) and [Prof. Shaolei Ren](https://shaoleiren.github.io).
 I received my PhD degree in 2023 at UC Riverside, advised by Prof. Shaolei Ren. 
 
-My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy** and **energy-efficient** AI, building reliable, responsible, and efficient AI systems. My research methodologies include reinforcement learning, online learning/optimization, knowledge informed learning, learning-augmented algorithms, etc.
+My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy** and **energy-efficient** AI, building reliable, responsible, and sustainable AI systems. My research methodologies include reinforcement learning, online learning/optimization, knowledge informed learning, learning-augmented algorithms, etc.
 
 
 **I am actively seeking self-motivated PhD students and research assistants starting Fall 2025. If you have an interest, please contact me and send me your CV and transcripts. Details in the link [<span style="color: blue;">Openings</span>](https://jyang-ai.github.io/join/).**
