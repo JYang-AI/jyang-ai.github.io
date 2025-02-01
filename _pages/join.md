@@ -7,6 +7,7 @@ nav: true
 nav_order: 4
 ---
 
+# UH Computational Intelligence Group (CIG)
 
 ## PhD students
 ---
