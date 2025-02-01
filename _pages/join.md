@@ -7,17 +7,17 @@ nav: true
 nav_order: 4
 ---
 
-# UH Computational Intelligence Group (CIG)
+## UH Computational Intelligence Group (CIG)
 
-## PhD students
+### PhD students
 ---
 Jiaqi Wen Spring 2025 -- Present
 
-## Master and visiting students
+### Master and visiting students
 ---
 Sowbhagya Koppineedi, Sept 2024 -- Present, from Data Science Department, University of Houston
 
-## Undergraduate students
+### Undergraduate students
 ---
 
 
