@@ -16,12 +16,11 @@ Jiaqi Wen Spring 2025 -- Present
 ### Master and visiting students
 ---
 Sarayu Varma Gottimukkala, Feb 2025 -- Present, from CS, UH\
-Navya Siva Raj, Feb 2025 -- Present, from CS, UH\
-Sowbhagya Koppineedi, Sept 2024 -- Jan 2025, from Data Science Department, University of Houston
+Navya Siva Raj, Feb 2025 -- Present, from CS, UH
 
 ### Undergraduate students
 ---
-
+Brandon M Tobar, Mar 2025 -- Present, from CS, UH
 
 
 
