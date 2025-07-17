@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I will server in the Technical Program Committee of [SIGMETRICS'26](https://www.sigmetrics.org/sigmetrics2026/)
+:star: I will server in the Technical Program Committee of [SIGMETRICS'26](https://www.sigmetrics.org/sigmetrics2026/)
 
 
