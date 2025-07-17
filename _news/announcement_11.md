@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will server in the Technical Program Committee of [e-Energy'26](https://energy.acm.org/conferences/eenergy/2026/)
+:star: I will server in the Technical Program Committee of [e-Energy'26](https://energy.acm.org/conferences/eenergy/2026/)
