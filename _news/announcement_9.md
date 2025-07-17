@@ -5,5 +5,5 @@ inline: false
 related_posts: false
 ---
 
-I gave a presentation on trustworthy AI in the Department of Physics at UH. Nice discussions with the colleagues from Physics!
+:star: I gave a presentation on trustworthy AI in the Department of Physics at UH. Nice discussions with the colleagues from Physics!
 
