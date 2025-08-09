@@ -21,13 +21,13 @@ nav_order: 4
 
 ### Master and visiting students
 ---
-Sarayu Varma Gottimukkala, Feb 2025 -- Present, from CS, UH\
-Navya Siva Raj, Feb 2025 -- Present, from CS, UH
+* Sarayu Varma Gottimukkala, Feb 2025 -- Present, from CS, UH\
+* Navya Siva Raj, Feb 2025 -- Present, from CS, UH
 
 ### Undergraduate students
 ---
-Brandon M Tobar, Mar 2025 -- Present, from CS,UH, supported by Provost's Undergraduate Research Scholarship (PURS)\
-Vitor H Santos, May 2025 -- Present, from CS, UH, supported by Summer Undergraduate Research Fellowship (SURF)
+* Brandon M Tobar, Mar 2025 -- Present, from CS,UH, supported by Provost's Undergraduate Research Scholarship (PURS)\
+* Vitor H Santos, May 2025 -- Present, from CS, UH, supported by Summer Undergraduate Research Fellowship (SURF)
 
 
 
