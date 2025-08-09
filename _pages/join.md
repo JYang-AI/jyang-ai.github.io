@@ -15,9 +15,9 @@ nav_order: 4
 
 ### PhD students
 ---
-Jiaqi Wen, Spring 2025 -- Present\
-Tong Zhou, Fall 2025 -- Present\
-Mostafa Mushsharat, Fall 2025 -- Present
+* Jiaqi Wen, Spring 2025 -- Present\
+* Tong Zhou, Fall 2025 -- Present\
+* Mostafa Mushsharat, Fall 2025 -- Present
 
 ### Master and visiting students
 ---
