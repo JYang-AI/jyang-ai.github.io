@@ -10,7 +10,7 @@ nav_order: 4
 **<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab @ UH</span>**
 ---
 
-### Primary Investigator
+### PI
 [Jianyi Yang](https://jyang-ai.github.io/)
 
 ### PhD students
