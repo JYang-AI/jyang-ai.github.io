@@ -31,7 +31,7 @@ nav_order: 4
 
 
 
-  <!--
+<!--
 **Openings**
 
 I am actively seeking PhD students and research assistants in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the University of Houston (UH) starting Fall 2025 or Summer 2025.
