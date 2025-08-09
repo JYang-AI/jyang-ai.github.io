@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-**<span style="color: lightblue;"> READIng Lab @ UH </span>**
+**<span style="color: LightSkyBlue;"> READIng Lab @ UH </span>**
 ---
 *READIng = Responsible, Efficient, Agentic Decision Intelligence.  Our vision is to build next-generation AI that READ the world, interpret, and act.* 
 
