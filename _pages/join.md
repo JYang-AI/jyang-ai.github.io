@@ -10,8 +10,6 @@ nav_order: 4
 **<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab </span>**
 ---
 
-### PI
-* [**Jianyi Yang**](https://jyang-ai.github.io/)
 
 ### PhD students
 ---
