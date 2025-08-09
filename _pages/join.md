@@ -7,27 +7,27 @@ nav: true
 nav_order: 4
 ---
 
-**<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab @ UH</span>**
+**<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab </span>**
 ---
 
 ### PI
-* [Jianyi Yang](https://jyang-ai.github.io/)
+* [**Jianyi Yang**](https://jyang-ai.github.io/)
 
 ### PhD students
 ---
-* Jiaqi Wen, Spring 2025 -- Present
-* Tong Zhou, Fall 2025 -- Present
-* Mostafa Mushsharat, Fall 2025 -- Present
+* [**Jiaqi Wen**](), Spring 2025 -- Present
+* [**Tong Zhou**](), Fall 2025 -- Present
+* [**Mostafa Mushsharat**](), Fall 2025 -- Present
 
 ### Master and visiting students
 ---
-* Sarayu Varma Gottimukkala, Feb 2025 -- Present, from CS, UH\
-* Navya Siva Raj, Feb 2025 -- Present, from CS, UH
+* **Sarayu Varma Gottimukkala**, Feb 2025 -- Present, from CS, UH
+* **Navya Siva Raj**, Feb 2025 -- Present, from CS, UH
 
 ### Undergraduate students
 ---
-* Brandon M Tobar, Mar 2025 -- Present, from CS,UH, supported by Provost's Undergraduate Research Scholarship (PURS)\
-* Vitor H Santos, May 2025 -- Present, from CS, UH, supported by Summer Undergraduate Research Fellowship (SURF)
+* **Brandon M Tobar**, Mar 2025 -- Present, supported by Provost's Undergraduate Research Scholarship (PURS)
+* **Vitor H Santos**, May 2025 -- Present, supported by Summer Undergraduate Research Fellowship (SURF)
 
 
 
