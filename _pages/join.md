@@ -10,6 +10,9 @@ nav_order: 4
 **<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab @ UH</span>**
 ---
 
+### Primary Investigator
+[Jianyi Yang](https://jyang-ai.github.io/)
+
 ### PhD students
 ---
 Jiaqi Wen, Spring 2025 -- Present\
