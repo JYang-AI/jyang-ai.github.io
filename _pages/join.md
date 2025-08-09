@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-**<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab </span>**
+**<span style="color: lightblue;">Responsible Agentic Decision Intelligence (READIng) Lab </span>**
 ---
 
 
