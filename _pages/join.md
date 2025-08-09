@@ -11,7 +11,7 @@ nav_order: 4
 ---
 
 ### PI
-[Jianyi Yang](https://jyang-ai.github.io/)
+* [Jianyi Yang](https://jyang-ai.github.io/)
 
 ### PhD students
 ---
