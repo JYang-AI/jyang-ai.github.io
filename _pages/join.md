@@ -11,18 +11,18 @@ nav_order: 4
 ---
 
 
-### **PhD students**
+### **<span style="color: lightblue;"> PhD students </span>**
 ---
 * [**Jiaqi Wen**](), Spring 2025 -- Present
 * [**Tong Zhou**](), Fall 2025 -- Present
 * [**Mostafa Mushsharat**](), Fall 2025 -- Present
 
-### **Master and visiting students**
+### **<span style="color: lightblue;"> Master and visiting students </span>**
 ---
 * **Sarayu Varma Gottimukkala**, Feb 2025 -- Present, from CS, UH
 * **Navya Siva Raj**, Feb 2025 -- Present, from CS, UH
 
-### **Undergraduate students**
+### **<span style="color: lightblue;"> Undergraduate students </span>**
 ---
 * **Brandon M Tobar**, Mar 2025 -- Present, supported by Provost's Undergraduate Research Scholarship (PURS)
 * **Vitor H Santos**, May 2025 -- Present, supported by Summer Undergraduate Research Fellowship (SURF)
