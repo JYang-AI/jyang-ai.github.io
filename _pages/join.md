@@ -7,8 +7,9 @@ nav: true
 nav_order: 4
 ---
 
-**<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab @ UH</span>**\
-***We build agents that don’t just decide — they READ the world, interpret, and act.***
+**<span style="color: blue;">Responsible Agentic Decision Intelligence (READIng) Lab @ UH</span>**
+
+*--We build AIagents that don’t just decide — they READ the world, interpret, and act.*
 ---
 
 ### PhD students
