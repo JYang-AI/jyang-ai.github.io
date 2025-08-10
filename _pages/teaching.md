@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 ## 2025
-**Fall** COSC 6063 Artificial Intelligence.
+**Fall** COSC 6063 Artificial Intelligence. [Syllabus](https://uh.simplesyllabus.com/doc/xapbkql3f/Fall-2025-COSC-6368-19452-Artificial-Intelligence?mode=view)
 
 ## 2025
 **Spring**, COSC4368 Fundamentals of Artificial Intelligence. 
