@@ -22,7 +22,6 @@ I was a visiting research assistant at Caltech and UC Riverside during 2023-2024
 My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy** and **efficient** AI, building resilient, responsible, and efficient AI systems. Recent research methodologies include reinforcement learning, online learning/optimization, learning-augmented algorithms, knowledge informed learning etc.
 
 
-**I am actively seeking self-motivated PhD students starting Spring 2026. If you have an interest, please contact me and send me your CV and transcripts. Details in the link [<span style="color: blue;">Openings</span>](https://jyang-ai.github.io/join/).**
 
 
 
