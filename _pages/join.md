@@ -9,7 +9,7 @@ nav_order: 4
 
 **<span style="color: #3399ff;"> Computational IntelliGence (CIG) Lab @ UH </span>**
 ---
-*We focus on fundamental research on Responsible and Efficient ML, Decision making and AI computing.* 
+*We focus on fundamental research on Responsible and Efficient AI/ML, Decision making, and AI computing.* 
 
 &nbsp;
 ### **<span style="color: #66ccff;"> PhD students </span>**
