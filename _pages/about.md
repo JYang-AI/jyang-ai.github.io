@@ -21,6 +21,8 @@ I was a visiting research assistant at Caltech and UC Riverside during 2023-2024
 
 My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy** and **efficient** AI, building resilient, responsible, and efficient AI systems. Recent research methodologies include reinforcement learning, online learning/optimization, learning-augmented algorithms, knowledge informed learning etc.
 
+Our [research team](https://jyang-ai.github.io/join/) at UH focuses on trustworthy AI, generative models, and learning for computing systems. If you are interested in joining our team, please send me an email with your CV and official transcripts. Please start you email title with “Application for AI@UH”.
+
 
 
 
