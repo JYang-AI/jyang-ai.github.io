@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-:star: Our paper [Distributionally Robust Optimization via Diffusion Ambiguity Modeling](https://jyang-ai.github.io/assets/pdf/Diffusion_DRO.pdf) was accepted by [OPT 2025](https://opt-ml.org/) collocated with **NeurIPS 2025**! 
+:star: Our paper [Distributionally Robust Optimization via Diffusion Ambiguity Modeling]() was accepted by [OPT 2025](https://opt-ml.org/) collocated with **NeurIPS 2025**! 
 
