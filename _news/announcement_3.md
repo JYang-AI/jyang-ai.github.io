@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-06-21 15:59:00-0400
+date: 2025-12-09 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Check out our new paper on environmentally equitable AI [Towards Environmentally Equitable AI via Geographical Load Balancing](https://arxiv.org/abs/2307.05494)! This paper takes a first step toward addressing AI’s environmental inequity by optimization methods.
+Our paper ***3D-Learning: Diffusion-Augmented Distributionally Robust Decision-Focused Learning*** is accepted by **IEEE INFOCOM 2026**. Congratulations to Jiaqi. 
