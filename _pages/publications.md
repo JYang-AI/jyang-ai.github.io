@@ -2,7 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: publications by categories in reversed chronological order. *means equal contribution
+description: Publications by categories in reversed chronological order. \
+* means equal contribution; # indicates students I have advised.
 nav: true
 nav_order: 2
 ---
