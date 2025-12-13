@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:star: Our paper [Learning-Augmented Decentralized Online Convex Optimization in Networks](https://arxiv.org/abs/2306.10158) has been accepted by **Sigmetrics'25**! It proposes a novel algorithm to provably robustify machine learning predictions for decentralized optimization in networks. 
+:star: Our paper [Learning-Augmented Decentralized Online Convex Optimization in Networks](https://arxiv.org/abs/2306.10158) has been accepted by **ACM SIGMETRICS'25**! It proposes a novel algorithm to provably robustify machine learning predictions for decentralized optimization in networks. 
