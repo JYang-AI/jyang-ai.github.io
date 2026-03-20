@@ -6,9 +6,11 @@ description:
 nav: true
 nav_order: 5
 ---
+## 2026
+**Spring**, COSC4337 Data Science II.  [Syllabus](https://uh.simplesyllabus.com/doc/gnkhc5epp/Spring-2026-COSC-4337-14097-Data-Science-II?mode=view)\
+
 ## 2025
 **Fall** COSC 6063 Artificial Intelligence. [Syllabus](https://uh.simplesyllabus.com/doc/xapbkql3f/Fall-2025-COSC-6368-19452-Artificial-Intelligence?mode=view)\
-*New topics in this Semester: Theoretical Analysis of ML (Convergence and Generalization); Generative Models; Multi-Agent Systems. * 
 
 ## 2025
 **Spring**, COSC4368 Fundamentals of Artificial Intelligence. 
