@@ -14,13 +14,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: University of Houston
+      year: 09/2024 - now
+      items:
+        
     - title: Visiting Researcher 
       institution: California Institute of Technology, Pasadena, CA
       year: 09/2023 - 05/2024
       items:
         - Hosted by Dr. Adam Wierman
       
-    - title: Visiting Postdoctoral Researcher
+    - title: Visiting Researcher
       institution: University of California, Riverside, Riverside, CA
       year: 08/2023 - 08/2024
       items:
@@ -32,79 +37,24 @@
       items:
         - Mentored by Dr. Jianshu Chen
 
-- title: Teaching 
-  type: time_table
-  contents:
-    - title: Teaching Assistant, Data Center Architecture 
-      institution: University of California, Riverside, Riverside, CA
-      year: 2023
-      
-    - title: Teaching Assistant, Logic Design
-      institution: University of California, Riverside, Riverside, CA
-      year: 2019
-
-    - title: Teaching Assistant, Principles of Communications
-      institution: Beijing University of Posts and Telecommunications, Beijing, China
-      year: 2016
       
 - title: Service 
   type: nested_list
   contents:
     - title: Conference Reviewer
       items: 
-        - International Conference on Machine Learning (ICML) 2024/2023/2022
-        - Conference on Neural Information Processing Systems (NeurIPS) 2023/2022
-        - International Conference on Learning Representations (ICLR) 2023
-        - AAAI Conference on Artificial Intelligence (AAAI) 2023/2022 
-        - Conference on Artificial Intelligence and Statistics (AISTATS) 2023/2022/2021
+        - International Conference on Machine Learning (ICML) 2025/2024/2023/2022
+        - Conference on Neural Information Processing Systems (NeurIPS) 2025/2024/2023/2022
+        - International Conference on Learning Representations (ICLR) 2026/2025/2024/2023
+        - AAAI Conference on Artificial Intelligence (AAAI) 2024/2023/2022 
+        - Conference on Artificial Intelligence and Statistics (AISTATS) 2025/2024/2023/2022/2021
         - Conference on Knowledge Discovery and Data Mining (KDD) 2023
     - title: Jornal Reviewer
-      items: 
+      items:
+        - ACM Transactions on Modeling and Performance Evaluation of Computing Systems 2025/2024
+        - IEEE Transactions on Cloud Computing 2024
+        - IEEE Transactions on Sustainable Computing 2024
         - IEEE Transactions on Communications 2023
         - IEEE Transactions on Green Communications and Networking 2023
         - IEEE Systems Journal 2021
-    - title: Volunteer
-      items:
-        - ICML 2023 in Honolulu, HI
-        - ICML 2022 in Baltimore, MD
 
-- title: Talks 
-  type: time_table
-  contents:
-    - year: 02/2024
-      items:
-       -  Online Budgeted Allocation, Worst Case Guarantee and Learning Augmentation 
-       -  Information Theory and Applications (<b>ITA</b>) Workshop, San Diego, CA
-    - year: 10/2023
-      items: 
-        -  Anytime-Constrained Sequential Decision-making with Provable Trustworthiness Guarantee
-        -  Session of Learning-Augmented Decision-Making In Cyber-Physical System, <b>Informs Annual Meeting</b>, Phoenix, AZ
-    - year: 02/2023
-      items: 
-        -  Intelligent Online Decision-making with Provable Trustworthiness Guarantee
-        -  Information Theory and Applications (<b>ITA</b>) Workshop, San Diego, CA
-   
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        -  Dissertation Year Program Award
-    - year: 2018
-      items:
-        - UCR Dean’s Distinguished Fellowship
-    - year: 2017
-      items: 
-        - National Scholarship for Graduate Students 
-    - year: 2015
-      items:
-        - Goodix Industry Scholarship 
-    - year: 2013
-      items:
-        - National Scholarship 
-    - year: 2012
-      items:
-        - National Scholarship 
-      
-  
