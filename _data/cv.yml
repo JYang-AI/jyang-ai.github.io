@@ -1,16 +1,3 @@
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Electrical Engineering
-      institution: University of California, Riverside
-      year: 2018 - 2023
-    - title: M.S. in Information and Communication Engineering
-      institution: Beijing University of Posts and Telecommunications
-      year: 2015 - 2018
-    - title: B.E. in Information Engineering
-      institution: Xidian University
-      year: 2011 - 2015
-
 - title: Experience
   type: time_table
   contents:
@@ -36,6 +23,19 @@
       year: 03/2022-06/2022
       items:
         - Mentored by Dr. Jianshu Chen
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Electrical Engineering
+      institution: University of California, Riverside
+      year: 2018 - 2023
+    - title: M.S. in Information and Communication Engineering
+      institution: Beijing University of Posts and Telecommunications
+      year: 2015 - 2018
+    - title: B.E. in Information Engineering
+      institution: Xidian University
+      year: 2011 - 2015
 
       
 - title: Service 
