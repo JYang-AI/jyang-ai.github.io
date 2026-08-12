@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: Contact. jyang66@uh.edu or jianyiyang.ai@gmail.com or jyang71@central.uh.edu
+  more_info: 
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,7 +23,7 @@ I received my PhD degree from University of California, Riverside in 2023, advis
 I was a visiting research assistant at Caltech and UC Riverside during 2023-2024, working with [Prof. Adam Wierman](https://adamwierman.com) and Prof. Shaolei Ren.
 
 
-
+Contact: jyang66@uh.edu or jianyiyang.ai@gmail.com or jyang71@central.uh.edu
 
 
 
