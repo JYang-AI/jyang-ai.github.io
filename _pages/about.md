@@ -16,10 +16,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu).
+My research seeks to advance **trustworthy** and **efficient** AI, building resilient, responsible, and efficient AI systems. Recent research directions include generative AI, uncertainty modeling and risk control, safe reinforcement learning, and learning-augmented algorithms etc.
+
+
 I received my PhD degree from University of California, Riverside in 2023, advised by [Prof. Shaolei Ren](https://shaoleiren.github.io). 
 I was a visiting research assistant at Caltech and UC Riverside during 2023-2024, working with [Prof. Adam Wierman](https://adamwierman.com) and Prof. Shaolei Ren.
 
-My research interests span AI/ML algorithms and their applications in computing systems.  My research seeks to advance **trustworthy** and **efficient** AI, building resilient, responsible, and efficient AI systems. Recent research methodologies include generative AI, reinforcement learning, online learning/optimization, learning-augmented algorithms etc.
+
 
 
 
