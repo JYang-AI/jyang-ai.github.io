@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am an Assistant Professor in the [Department of Computer Science](https://uh.edu/nsm/computer-science/) at the [University of Houston](https://www.uh.edu).
-My research seeks to advance **trustworthy** and **efficient** AI, building resilient, responsible, and efficient AI systems. Recent research directions include generative AI enabled uncertainty modeling and risk control, safe reinforcement learning, resource-efficient AI, and learning-augmented algorithms etc.
+My research focuses on advancing trustworthy and efficient AI, with the goal of developing AI systems that are resilient, responsible, and resource-efficient. My recent research spans generative-AI-enabled uncertainty modeling and risk control, safe reinforcement learning, resource-efficient AI, and learning-augmented algorithms.
 
 
 I received my PhD degree from University of California, Riverside in 2023, advised by [Prof. Shaolei Ren](https://shaoleiren.github.io). 
