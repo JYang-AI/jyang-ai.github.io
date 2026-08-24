@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 ## 2026
+**Fall** COSC 6063 Artificial Intelligence. [Syllabus](https://uh.simplesyllabus.com/doc/thrcb4kvw/Fall-2026-COSC-6368-18466-Artificial-Intelligence?mode=view)\
+
+## 2026
 **Spring**, COSC4337 Data Science II.  [Syllabus](https://uh.simplesyllabus.com/doc/gnkhc5epp/Spring-2026-COSC-4337-14097-Data-Science-II?mode=view)\
 
 ## 2025
