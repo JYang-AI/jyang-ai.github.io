@@ -55,6 +55,12 @@
           {%- if author_full_name == "Jiaqi Wen" -%}
             {%- assign author_is_student = true -%}
           {%- endif -%}
+          {%- if author_full_name == "Mostafa Mushsharat" -%}
+            {%- assign author_is_student = true -%}
+          {%- endif -%}
+          {%- if author_full_name == "Tong Zhou" -%}
+            {%- assign author_is_student = true -%}
+          {%- endif -%}
           {%- assign coauthor_url = nil -%}
           {%- if site.data.coauthors[author_last_name] -%}
             {%- for coauthor in site.data.coauthors[author_last_name] -%}
