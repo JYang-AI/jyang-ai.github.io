@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am co-organizing the (Data Center Grid Integration Workshop)[https://datacenter.ece.uh.edu] to be held at University of Houston, Houston, TX on November 19, 2026.   
+I am co-organizing the [Data Center Grid Integration Workshop](https://datacenter.ece.uh.edu) to be held at University of Houston, Houston, TX on November 19, 2026.   
